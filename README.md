@@ -6,7 +6,7 @@ Restaurant management site.
 
 In order to install the system, you need to install the system itself, if you install git then you can command
 
-git clone https://github.com/SerVitasik/Restaurant
+git clone https://github.com/Pashahu1/Restaurant
 Or unzip the lab4db archive.
 
 ## Usage
