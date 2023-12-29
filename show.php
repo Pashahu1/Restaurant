@@ -242,7 +242,7 @@
 	</section>
 	<footer>
 		<div class="container">
-			Project by Vitasik -_-
+			Project by Pavlo
 		</div>
 		
 	</footer>
